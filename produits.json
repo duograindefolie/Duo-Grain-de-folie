@@ -1,0 +1,44 @@
+{
+  "produits": [
+    {
+      "id": "bougie-sable",
+      "nom": "Bougie artisanale",
+      "prix": 19,
+      "categorie": "bougies",
+      "description": "Cire végétale, 180 g",
+      "image": "",
+      "perso": "",
+      "dispo": true
+    },
+    {
+      "id": "planche-gravee",
+      "nom": "Planche gravée",
+      "prix": 28,
+      "categorie": "gravure",
+      "description": "Bois d'olivier",
+      "image": "",
+      "perso": "Texte à graver",
+      "dispo": true
+    },
+    {
+      "id": "pochon-brode",
+      "nom": "Pochon brodé",
+      "prix": 16,
+      "categorie": "broderie",
+      "description": "Coton, fil au choix",
+      "image": "",
+      "perso": "Prénom à broder",
+      "dispo": true
+    },
+    {
+      "id": "tote-floque",
+      "nom": "Tote bag floqué",
+      "prix": 22,
+      "categorie": "flocage",
+      "description": "Coton bio",
+      "image": "",
+      "perso": "Texte ou motif souhaité",
+      "dispo": true
+    }
+  ]
+}
